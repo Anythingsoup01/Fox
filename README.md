@@ -1,3 +1,5 @@
-# Ferret
+# Fox
 
-Ferret is an open source Application Framework.
+Fox is an open source Game Framework.
+
+Fox will include everything need for game developement in C++, including, but not limited to, Textures, Batch Rendering, ImGui Framebuffer support, etc.
